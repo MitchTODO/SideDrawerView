@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "SideDrawerView"
   spec.version      = "1.0.0"
-  spec.summary      = "📲  A custom sliding UI component for iOS writen in Swift 5"
+  spec.summary      = "📲  A custom sliding UI component for iOS written in Swift 5"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -81,7 +81,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/MitchTODO/SideDrawerView", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/MitchTODO/SideDrawerView.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
