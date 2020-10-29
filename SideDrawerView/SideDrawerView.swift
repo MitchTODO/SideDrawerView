@@ -120,7 +120,7 @@ public class SideDrawerView: UIView {
     
     /// A designated initialier for DrawerView. Use initializer to create a new instnace of a DrawerView. Note that the view will add itself to the super view and must not do that manually. A typical use-case of this class it to instantiate a variable or property and optionally use closures to animate UIKit related contnet alongside with the DrawerView.
     public init(drawerHandleWidth: CGFloat = 25,
-                drawerHeight:CGFloat = 50, // this changes based on orientation `drawerSize`
+                drawerHeight:CGFloat = 150, // this changes based on orientation `drawerSize`
                 flipHeightWidthOnRotation:Bool = true,
                 
                 useSafeAreaLayoutGuide:Bool = true,
@@ -128,7 +128,7 @@ public class SideDrawerView: UIView {
                 setContentInSafeArea:Bool = true,
                 
                 blurStyle: UIBlurEffect.Style = UIBlurEffect.Style.regular,
-                lineArrow: (height: CGFloat, width: CGFloat, color: UIColor)? = (20, 4, UIColor.systemBlue),
+                lineArrow: (height: CGFloat, width: CGFloat, color: UIColor)? = (50, 4, UIColor.systemBlue),
                 drawerBackgroundColor:UIColor = .clear,
                 
                 superView: UIView) {
