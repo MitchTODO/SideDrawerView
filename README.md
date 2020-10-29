@@ -31,15 +31,15 @@ You can always use `copy-paste` the sources method. Or you can compile the frame
 Please wait while the `.gif` files are loading...
 
 <p float="left">
-  <img src="assets/demoTable.gif" width="250" />
-  <img src="assets/demoMap.gif" width="250" />
-  <img src="assets/demoCollection.gif" width="250" />
+  <img src="assets/demoTable.gif" width="270" />
+  <img src="assets/demoMap.gif" width="270" />
+  <img src="assets/demoCollection.gif" width="270" />
 </p>
 
 <p float="left">
-  <img src="assets/demoTableLand.gif" width="250" />
-  <img src="assets/demoMapViewLand.gif" width="250" />
-  <img src="assets/demoCollectionLand.gif" width="250" />
+  <img src="assets/demoTableLand.gif" width="270" />
+  <img src="assets/demoMapViewLand.gif" width="270" />
+  <img src="assets/demoCollectionLand.gif" width="270" />
 </p>
 
 <p align="center">
