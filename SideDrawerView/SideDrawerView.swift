@@ -468,11 +468,11 @@ private extension SideDrawerView {
                 self.closedWidth = drawerHeight!
             }
             
-            // could check if in landscape Right there will be no gap
-            if useSafeAreaLayoutGuide! && self.currentOrintation == .landscapeLeft {
+            // could check if in landscape left there will be no gap on trailing side
+            //if useSafeAreaLayoutGuide! && self.currentOrintation == .landscapeLeft {
                 // sub leading padding from width in landscape |     | <--
-                self.closedWidth = drawerHeight!
-            }
+            //    self.closedWidth = drawerHeight!
+            //}
             
             // check if width height should be flipped
             if flipHeightWidthOnRotation {
