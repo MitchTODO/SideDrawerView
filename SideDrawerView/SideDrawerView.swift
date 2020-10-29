@@ -413,7 +413,6 @@ public class SideDrawerView: UIView {
         default: ()
         }
     }
-    var hasInit = false
 }
 
 private extension SideDrawerView {
