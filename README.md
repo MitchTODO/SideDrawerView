@@ -20,7 +20,9 @@ This project is still in a work in progress and contribution is welcome. Check o
 # 🏗 Installation
 ## CocoaPods
 
-Waiting for CocoaPods to update usually takes up to 24 hours. 10/28/2020  I will be back when its avaiable.
+Add this inside your Podfile
+
+    pod 'SideDrawerView','~> 1.0.0'
 
 ## Manual
 You can always use `copy-paste` the sources method. Or you can compile the framework and include it with your project.
