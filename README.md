@@ -13,7 +13,7 @@
 
 Side Drawer View is a fork from jvirus's  [draw-view](https://github.com/jVirus/drawer-view).  Shout out to jvirus for some awesome code!
 
-This project is still in a work in progress and contribution is welcome. Check out the project boards for some TODO's.
+This project is still in a work in progress and contribution is welcome.
 
 # 🏗 Installation
 ## CocoaPods
