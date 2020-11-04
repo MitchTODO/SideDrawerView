@@ -24,7 +24,7 @@ Add this inside your Podfile
     pod 'SideDrawerView','~> 1.0.0'
 
 ## Manual
-You can always use `copy-paste` the sources method. Or you can compile the framework and include it with your project.
+You can always `copy-paste` the sources method. Or you can compile the framework and include it with your project.
 
 # 📺 Demo
 Please wait while the `.gif` files are loading...
